@@ -38,6 +38,8 @@ cd splunk/my-app/
 npm install
 npm start
 
+* If incase of npm not working, kindly install node in your machine.
+
 Now your React code runs in localhost:3000/ redirected browser.
 Make sure to run both Django and React servers parallely for better API calls.
 
